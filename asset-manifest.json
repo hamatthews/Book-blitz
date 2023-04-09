@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Book-blitz/static/css/main.1f9be073.css",
+    "main.js": "/Book-blitz/static/js/main.67196901.js",
+    "index.html": "/Book-blitz/index.html",
+    "main.1f9be073.css.map": "/Book-blitz/static/css/main.1f9be073.css.map",
+    "main.67196901.js.map": "/Book-blitz/static/js/main.67196901.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1f9be073.css",
+    "static/js/main.67196901.js"
+  ]
+}
